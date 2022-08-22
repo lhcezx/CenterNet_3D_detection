@@ -1,3 +1,0 @@
-"C:\Program Files\JetBrains\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\evaluate_object.dir/objects.a
-C:\Users\lhcez\Desktop\Code\source_package\mingw64\bin\ar.exe qc CMakeFiles\evaluate_object.dir/objects.a @CMakeFiles\evaluate_object.dir\objects1.rsp
-C:\Users\lhcez\Desktop\Code\source_package\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\evaluate_object.dir/objects.a -Wl,--no-whole-archive -o evaluate_object.exe -Wl,--out-implib,libevaluate_object.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\evaluate_object.dir\linklibs.rsp
